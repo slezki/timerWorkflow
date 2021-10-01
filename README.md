@@ -1,4 +1,4 @@
-# This workflow has been created to measure consuming time by tracking modules
+# This workflow has been created to measure time consuming by tracking modules
 
 * Add your favorite input in inputFiles.py
 
